@@ -1,0 +1,6 @@
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\bin\Debug\DatosLayer.dll
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\bin\Debug\DatosLayer.pdb
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\obj\Debug\DatosLayer.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\obj\Debug\DatosLayer.dll
+C:\Users\darks\Desktop\CicloIV\CapaConexion\DatosLayer\obj\Debug\DatosLayer.pdb
